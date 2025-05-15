@@ -2,6 +2,14 @@
 
 A full-stack image gallery web application built with the **MERN stack** (MongoDB, Express, React, Node.js). Users can register, log in, upload images (admin only), like photos, and leave comments.
 
+## 📷 Demo Admin
+
+![Demo](./client/public/admindemo.png)
+
+## 📷 Demo user
+
+![Demo](./client/public/userdemo.png)
+
 ## 🚀 Features
 
 - 🔐 **Authentication**
@@ -69,13 +77,7 @@ npm start
 │   ├── models/
 │   └── middleware/
 
-## 📷 Demo Admin
 
-![Demo](./client/public/admindemo.png)
-
-## 📷 Demo user
-
-![Demo](./client/public/userdemo.png)
 
 
 🧑‍💻 Author
